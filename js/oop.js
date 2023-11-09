@@ -85,7 +85,7 @@ function Hamburger(options) {
     "tomato",
     "cucumber",
   ];
-  this.cheeses = options.cheeses || ["mozzarella", "Cheddar", ""];
+  this.cheeses = options.cheeses || ["mozzarella", "Cheddar"];
   this.sauces = options.sauces || [
     "mayo",
     "chipotle",
